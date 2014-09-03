@@ -1,0 +1,26 @@
+html {
+  background-color: rgb(224, 139, 26);
+  color: rgb(69, 153, 122);
+  font-family: sans-serif, helvetica;
+  background-image: url('tyler.gif');
+
+}
+
+img {
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 10rem;
+  color: rgb(69, 153, 122);
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(69, 153, 122);
+}
